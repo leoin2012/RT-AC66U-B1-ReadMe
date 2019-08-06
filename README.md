@@ -134,4 +134,7 @@ chmod +x shadowsocks.sh
 ![设置节点](https://upload-images.jianshu.io/upload_images/1797904-ee0ed6eecfbcdabb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-现在打开网页，不出意外就可以正常访问Google了，有CN2线路加持，油管看720p视频也没有压力。至此，科学上网探索之旅到此告一
+现在打开网页，不出意外就可以正常访问Google了，有CN2线路加持，油管看720p视频也没有压力。至此，科学上网探索之旅到此告一段落。
+![](https://upload-images.jianshu.io/upload_images/1797904-75f71dd044825be2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+最后，希望看到这里的朋友们牢记社会主义核心价值观，富强、民主、文明、和谐、自由、平等、公正、法治、爱国、敬业、诚信、友善，将科学上网用于正途，用来学习课程，查阅资料，不信讹，不传讹。我们墙外见～
